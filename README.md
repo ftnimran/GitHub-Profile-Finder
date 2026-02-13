@@ -2,7 +2,7 @@
 
 GitHub Profile Finder ek simple aur powerful web app hai jisme user **GitHub username** enter karta hai aur turant uski **GitHub profile details** dekh sakta hai. Ye project GitHub API ka use karke real-time data fetch karta hai.
 
-🌐 **Live Demo:** https://ftnimran.github.io/GitHub-Profile-Finder/  
+🌐 **Live Demo:** https://github-profile-finder-505.netlify.app  
 
 ---
 
@@ -74,9 +74,8 @@ GitHub-Profile-Finder/
 
 ---
 
-## 🎯 Future Improvements (Optional)
+## 🌱 Future Improvements
 
-- 🌙 Dark mode
 - 📊 Repositories list show karna
 - ⭐ Most starred repo highlight
 - 📱 Fully responsive UI
